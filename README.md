@@ -62,9 +62,9 @@ modpack
 
 > **_Don't forget to install mods on your computer as indicated in the <kbd>[**_Client-side_**](#client-side)</kbd> installation section._**
 
-## Tables of Components <kbd>**194 + 15**</kbd>
+## Tables of Components <kbd>**193 + 15**</kbd>
 
-This section presents all components included in this modpack: <kbd>**159 [mods](#mods-159)**</kbd>, <kbd>**35 [libs](#libs-35)**</kbd>, and <kbd>**15 [resource packs](#resource-packs-15)**</kbd>. The components are organized into three tables for better clarity and easier customization.
+This section presents all components included in this modpack: <kbd>**158 [mods](#mods-158)**</kbd>, <kbd>**35 [libs](#libs-35)**</kbd>, and <kbd>**15 [resource packs](#resource-packs-15)**</kbd>. The components are organized into three tables for better clarity and easier customization.
 
 Each table provides the following information:
 
@@ -75,7 +75,7 @@ Each table provides the following information:
 
 This structure allows users to customize the modpack according to their preferences by easily identifying dependencies and removing unnecessary components.
 
-### Mods <kbd>**159**</kbd>
+### Mods <kbd>**158**</kbd>
 
 <!-- To properly display the tables, disable word wrap in your editor -->
 | **name**                                                                                   | **dependencies**                                                                                                                                                       | **installation side** |
@@ -124,7 +124,6 @@ This structure allows users to customize the modpack according to their preferen
 | [**Double Doors**][double-doors]                                                           | <kbd>[**Collective**][collective]</kbd>                                                                                                                                | `client and server`   |
 | [**Durability Tooltip**][durability-tooltip]                                               | <kbd>[**SuperMartijn642's Config Lib**][supermartijn642s-config-lib]</kbd>                                                                                             | `client`              |
 | [**Dynamic Music Updated**][dynamic-music-updated]                                         | <kbd>[**Architectury API**][architectury-api]</kbd><br><kbd>[**Cloth Config API**][cloth-config-api]</kbd>                                                             | `client`              |
-| [**e4mc**][e4mc]                                                                           | <kbd>_none_</kbd>                                                                                                                                                      | `client`              |
 | [**Easy Anvils**][easy-anvils]                                                             | <kbd>[**Puzzles Lib**][puzzles-lib]</kbd>                                                                                                                              | `client and server`   |
 | [**Eating Animation**][eating-animation]                                                   | <kbd>_none_</kbd>                                                                                                                                                      | `client`              |
 | [**EEEAB's Mobs**][eeeabs-mobs]                                                            | <kbd>[**Curios API**][curios-api]</kbd>                                                                                                                                | `client and server`   |
@@ -347,7 +346,6 @@ This structure allows users to customize the modpack according to their preferen
 [double-doors]: https://www.curseforge.com/minecraft/mc-mods/double-doors
 [durability-tooltip]: https://www.curseforge.com/minecraft/mc-mods/durability-tooltip
 [dynamic-music-updated]: https://www.curseforge.com/minecraft/mc-mods/dynamic-music-updated
-[e4mc]: https://www.curseforge.com/minecraft/mc-mods/e4mc
 [easy-anvils]: https://www.curseforge.com/minecraft/mc-mods/easy-anvils
 [eating-animation]: https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge
 [eeeabs-mobs]: https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs

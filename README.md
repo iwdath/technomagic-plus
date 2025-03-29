@@ -62,9 +62,9 @@ modpack
 
 > **_Don't forget to install mods on your computer as indicated in the <kbd>[**_Client-side_**](#client-side)</kbd> installation section._**
 
-## Tables of Components <kbd>**208 + 15**</kbd>
+## Tables of Components <kbd>**205 + 15**</kbd>
 
-This section presents all components included in this modpack: <kbd>**172 [mods](#mods-172)**</kbd>, <kbd>**36 [libs](#libs-36)**</kbd>, and <kbd>**15 [resource packs](#resource-packs-15)**</kbd>. The components are organized into three tables for better clarity and easier customization.
+This section presents all components included in this modpack: <kbd>**169 [mods](#mods-169)**</kbd>, <kbd>**36 [libs](#libs-36)**</kbd>, and <kbd>**15 [resource packs](#resource-packs-15)**</kbd>. The components are organized into three tables for better clarity and easier customization.
 
 Each table provides the following information:
 
@@ -75,7 +75,7 @@ Each table provides the following information:
 
 This structure allows users to customize the modpack according to their preferences by easily identifying dependencies and removing unnecessary components.
 
-### Mods <kbd>**172**</kbd>
+### Mods <kbd>**169**</kbd>
 
 <!-- To properly display the tables, disable word wrap in your editor -->
 | **name**                                                                                   | **dependencies**                                                                                                                                                                                                    | **installation side** |
@@ -129,7 +129,6 @@ This structure allows users to customize the modpack according to their preferen
 | [**Eating Animation**][eating-animation]                                                   | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
 | [**EEEAB's Mobs**][eeeabs-mobs]                                                            | <kbd>[**Curios API**][curios-api]</kbd>                                                                                                                                                                             | `client and server`   |
 | [**Effective**][effective]                                                                 | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
-| [**Elenai Dodge 2**][elenai-dodge-2]                                                       | <kbd>[**Feathers**][feathers]</kbd>                                                                                                                                                                                 | `client and server`   |
 | [**Embeddium**][embeddium]                                                                 | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
 | [**Embeddium Dynamic Lights**][embeddium-dynamic-lights]                                   | <kbd>[**Embeddium**][embeddium]</kbd>                                                                                                                                                                               | `client`              |
 | [**Embeddium Extra**][embeddium-extra]                                                     | <kbd>[**Embeddium**][embeddium]</kbd>                                                                                                                                                                               | `client`              |
@@ -143,7 +142,6 @@ This structure allows users to customize the modpack according to their preferen
 | [**Fast IP Ping**][fast-ip-ping]                                                           | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
 | [**FastBoot**][fastboot]                                                                   | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
 | [**FastQuit**][fastquit]                                                                   | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
-| [**Feathers**][feathers]                                                                   | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client and server`   |
 | [**FerriteCore**][ferritecore]                                                             | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client and server`   |
 | [**First-person Model**][first-person-model]                                               | <kbd>[**Not Enough Animations**][not-enough-animations]</kbd>                                                                                                                                                       | `client`              |
 | [**Footprint Particle**][footprint-particle]                                               | <kbd>[**Architectury API**][architectury-api]</kbd><br><kbd>[**Cloth Config API**][cloth-config-api]</kbd>                                                                                                          | `client and server`   |
@@ -201,7 +199,6 @@ This structure allows users to customize the modpack according to their preferen
 | [**PV Addon Sculk**][pv-addon-sculk]                                                       | <kbd>[**Plasmo Voice (PV)**][pv]</kbd>                                                                                                                                                                              | `client and server`   |
 | [**PV Addon Sound Physics**][pv-addon-sound-physics]                                       | <kbd>[**Plasmo Voice (PV)**][pv]</kbd>                                                                                                                                                                              | `client`              |
 | [**Radiant Gear**][radiant-gear]                                                           | <kbd>[**Curios API**][curios-api]</kbd>                                                                                                                                                                             | `client and server`   |
-| [**Raised**][raised]                                                                       | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
 | [**Realm RPG: Fallen Adventurers**][realm-rpg-fallen-adventurers]                          | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client and server`   |
 | [**Realm RPG: Imps & Demons**][realm-rpg-imps-and-demons]                                  | <kbd>[**GeckoLib**][geckolib]</kbd>                                                                                                                                                                                 | `client and server`   |
 | [**Re:Deco**][redeco]                                                                      | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client and server`   |
@@ -366,7 +363,6 @@ This structure allows users to customize the modpack according to their preferen
 [eating-animation]: https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge
 [eeeabs-mobs]: https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs
 [effective]: https://www.curseforge.com/minecraft/mc-mods/effective-forge
-[elenai-dodge-2]: https://www.curseforge.com/minecraft/mc-mods/elenai-dodge-2
 [embeddium]: https://www.curseforge.com/minecraft/mc-mods/embeddium
 [embeddium-dynamic-lights]: https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
 [embeddium-extra]: https://www.curseforge.com/minecraft/mc-mods/rubidium-extra
@@ -380,7 +376,6 @@ This structure allows users to customize the modpack according to their preferen
 [fast-ip-ping]: https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping
 [fastboot]: https://www.curseforge.com/minecraft/mc-mods/fastboot
 [fastquit]: https://www.curseforge.com/minecraft/mc-mods/fastquit-forge
-[feathers]: https://www.curseforge.com/minecraft/mc-mods/feathers
 [ferritecore]: https://www.curseforge.com/minecraft/mc-mods/ferritecore
 [first-person-model]: https://www.curseforge.com/minecraft/mc-mods/first-person-model
 [footprint-particle]: https://www.curseforge.com/minecraft/mc-mods/footprintparticle
@@ -438,7 +433,6 @@ This structure allows users to customize the modpack according to their preferen
 [pv-addon-sculk]: https://modrinth.com/plugin/pv-addon-sculk
 [pv-addon-sound-physics]: https://modrinth.com/mod/pv-addon-soundphysics
 [radiant-gear]: https://www.curseforge.com/minecraft/mc-mods/radiant-gear
-[raised]: https://www.curseforge.com/minecraft/mc-mods/raised
 [realm-rpg-fallen-adventurers]: https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers
 [realm-rpg-imps-and-demons]: https://www.curseforge.com/minecraft/mc-mods/realm-rpg-imps-demons
 [redeco]: https://www.curseforge.com/minecraft/mc-mods/redeco

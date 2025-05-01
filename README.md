@@ -62,9 +62,9 @@ modpack
 
 > **_Don't forget to install mods on your computer as indicated in the <kbd>[**_Client-side_**](#client-side)</kbd> installation section._**
 
-## Tables of Components <kbd>**210 + 14**</kbd>
+## Tables of Components <kbd>**211 + 14**</kbd>
 
-This section presents all components included in this modpack: <kbd>**174 [mods](#mods-174)**</kbd>, <kbd>**36 [libs](#libs-36)**</kbd>, and <kbd>**14 [resource packs](#resource-packs-14)**</kbd>. The components are organized into three tables for better clarity and easier customization.
+This section presents all components included in this modpack: <kbd>**175 [mods](#mods-175)**</kbd>, <kbd>**36 [libs](#libs-36)**</kbd>, and <kbd>**14 [resource packs](#resource-packs-14)**</kbd>. The components are organized into three tables for better clarity and easier customization.
 
 Each table provides the following information:
 
@@ -75,7 +75,7 @@ Each table provides the following information:
 
 This structure allows users to customize the modpack according to their preferences by easily identifying dependencies and removing unnecessary components.
 
-### Mods <kbd>**174**</kbd>
+### Mods <kbd>**175**</kbd>
 
 <!-- To properly display the tables, disable word wrap in your editor -->
 | **name**                                                                                   | **dependencies**                                                                                                                                                                                                    | **installation side** |
@@ -106,6 +106,7 @@ This structure allows users to customize the modpack according to their preferen
 | [**Boat Item View**][boat-item-view]                                                       | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
 | [**Born in Chaos**][born-in-chaos]                                                         | <kbd>[**GeckoLib**][geckolib]</kbd>                                                                                                                                                                                 | `client and server`   |
 | [**Bucolic Origins**][bucolic-origins]                                                     | <kbd>[**Origins**][origins]</kbd>                                                                                                                                                                                   | `client and server`   |
+| [**Build Guide**][build-guide]                                                             | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client`              |
 | [**Bushier Flowers**][bushier-flowers]                                                     | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client and server`   |
 | [**CameraOverhaul**][cameraoverhaul]                                                       | <kbd>[**Cloth Config API**][cloth-config-api]</kbd>                                                                                                                                                                 | `client`              |
 | [**Carry On**][carry-on]                                                                   | <kbd>_none_</kbd>                                                                                                                                                                                                   | `client and server`   |
@@ -344,6 +345,7 @@ This structure allows users to customize the modpack according to their preferen
 [boat-item-view]: https://www.curseforge.com/minecraft/mc-mods/boat-item-view-forge
 [born-in-chaos]: https://www.curseforge.com/minecraft/mc-mods/born-in-chaos
 [bucolic-origins]: https://www.curseforge.com/minecraft/mc-mods/bucolic-origins
+[build-guide]: https://www.curseforge.com/minecraft/mc-mods/build-guide
 [bushier-flowers]: https://www.curseforge.com/minecraft/mc-mods/bushier-flowers
 [cameraoverhaul]: https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul
 [carry-on]: https://www.curseforge.com/minecraft/mc-mods/carry-on

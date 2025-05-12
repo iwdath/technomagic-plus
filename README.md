@@ -5,11 +5,11 @@
 
 ## Description
 
-**`TechnoMagic+`** is a carefully curated modpack that blends advanced technology with mystical magic, creating a unique gameplay experience in Minecraft. It allows players to explore both industrial automation and arcane knowledge, offering a perfect synergy between science and sorcery.
+**`TechnoMagic+`** is a modpack that combines technology and magic in a way that feels natural and balanced. It adds depth to the game through machines, energy systems, magical research, and exploration, while keeping the familiar feel of **`Minecraft`** intact.
 
-This modpack strikes a balance between complexity and accessibility, making it suitable for both tech enthusiasts and magic adepts. Alongside its core features, it includes various quality-of-life improvements, performance optimizations, and visual enhancements for a smoother and more immersive adventure.
+You can automate resource production, build technical infrastructure, or dive into magical progression — or do both at once. The mods are selected to complement each other, so you’re free to follow either path without the systems clashing or overwhelming you.
 
-Whether you're building high-tech machinery, mastering powerful spells, or discovering new dimensions, **`TechnoMagic+`** provides the ultimate playground for both engineers and wizards alike.
+To make the experience smoother, the pack also includes small improvements: performance tweaks, interface adjustments, and subtle visual changes. If you’ve ever wanted to explore both circuits and spells in the same world, **`TechnoMagic+`** gives you the space to do exactly that.
 
 ## Installation
 
@@ -19,12 +19,12 @@ This modpack is structured into separate <kbd>**client-side**</kbd> and <kbd>**s
 
 If you're playing in single-player mode, you only need to install <kbd>**client-side**</kbd> mods:
 
-1. Make sure you have the appropriate version of Minecraft <kbd>**Forge**</kbd> installed. If <kbd>**Forge**</kbd> is not installed, download the [**installer**][forge] and select the <kbd>**Install Client**</kbd> option.
-2. Download the <kbd>**client-side**</kbd> [**modpack**][releases] and extract its contents into the game directory:
+1. Ensure the correct version of `Minecraft` <kbd>**Forge**</kbd> is installed. If not, download the [**installer**][forge], run it, and select the <kbd>**Install Client**</kbd> option.
+2. Download the <kbd>**client-side**</kbd> [**modpack**][releases] and extract it to your game directory:
    - **`Windows:`** <kbd>**%appdata%\\.minecraft\\**</kbd>
    - **`macOS:`** <kbd>**~/Library/Application Support/minecraft/**</kbd>
    - **`Linux:`** <kbd>**~/.minecraft/**</kbd>
-3. Launch the Minecraft launcher, select the <kbd>**Forge**</kbd> profile, and click <kbd>**Play**</kbd>.
+3. Open the `Minecraft` launcher, select the <kbd>**Forge**</kbd> profile, and click <kbd>**Play**</kbd>.
 
 <kbd>**Client-side**</kbd> mods, divided into <kbd>**mods**</kbd> and <kbd>**libs**</kbd>, are located in this repository at the following path:
 
@@ -41,11 +41,11 @@ modpack
 
 ### Server Side
 
-If you're playing on your own server, you'll also need to install mods on the server:
+If you're running your own server, you also need to install <kbd>**server-side**</kbd> mods:
 
-1. Make sure your server has the appropriate version of Minecraft <kbd>**Forge**</kbd> installed. If <kbd>**Forge**</kbd> is not installed, download the [**installer**][forge] and select the <kbd>**Install Server**</kbd> option.
-2. Download the <kbd>**server-side**</kbd> [**modpack**][releases] and extract its contents into the server's root directory, where <kbd>**server.jar**</kbd> and other files are located.
-3. Start the server and check that it runs without errors and all mods load correctly.
+1. Ensure the correct version of `Minecraft` <kbd>**Forge**</kbd> is installed on your server. If not, download the [**installer**][forge], run it, and select the <kbd>**Install Server**</kbd> option.
+2. Download the <kbd>**server-side**</kbd> [**modpack**][releases] and extract it to the server's root directory, where <kbd>**server.jar**</kbd> and other core files are located.
+3. Start the server and make sure it runs without errors and all mods load correctly.
 
 <kbd>**Server-side**</kbd> mods, divided into <kbd>**mods**</kbd> and <kbd>**libs**</kbd>, are located in this repository at the following path:
 
@@ -71,9 +71,9 @@ Each table provides the following information:
 - **`name:`** The name of the <kbd>**mod**</kbd>, <kbd>**lib**</kbd>, or <kbd>**resource pack**</kbd>.
 - **`dependencies:`** Other components required for proper functionality (if applicable).
 - **`used by:`** If it's a <kbd>**lib**</kbd>, this column lists the <kbd>**mods**</kbd> that depend on it.
-- **`installation side:`** Specifies whether the component is for <kbd>**client-side**</kbd>, <kbd>**server-side**</kbd>, or both.
+- **`installation side:`** Indicates if the component is for <kbd>**client-side**</kbd>, <kbd>**server-side**</kbd>, or both.
 
-This structure allows users to customize the modpack according to their preferences by easily identifying dependencies and removing unnecessary components.
+This structure helps users tailor the modpack to their needs by clearly showing dependencies and letting them skip components they don’t need.
 
 ### Mods <kbd>**175**</kbd>
 

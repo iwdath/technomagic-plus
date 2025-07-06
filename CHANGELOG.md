@@ -60,6 +60,10 @@
 ### Changed
 
 - [**BetterF3**](https://www.curseforge.com/minecraft/mc-mods/betterf3) enabled **`rotation`** and **`chunk-relative coordinates`** display
+- [**Crafting on a stick**](https://www.curseforge.com/minecraft/mc-mods/crafting-on-a-stick) open key **`V`** → **`J`**
+- [**Presence Footsteps**](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) settings key **`F10`** → **`Not bound`**
+- [**Sophisticated Backpacks**](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) open backpack key **`B`** → **```Mouse 5```**
+- zoom key **`C`** → **`Mouse 4`**
 
 ### Removed
 

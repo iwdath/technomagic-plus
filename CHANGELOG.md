@@ -46,6 +46,21 @@
 - [**Fusion**](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) **`[v1.2.7b]`**
 - [**Sophisticated Core**](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) **`[v0.6.4.730]`**
 
+#### Configs for
+
+- [**Additional Placements**](https://www.curseforge.com/minecraft/mc-mods/additional-placements)
+- [**Better Compatibility Checker**](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
+- [**FindMe**](https://www.curseforge.com/minecraft/mc-mods/findme)
+- [**Load My F\*\*\*ing Tags (LMFT)**](https://www.curseforge.com/minecraft/mc-mods/lmft)
+- [**Plasmo Voice (PV)**](https://modrinth.com/plugin/plasmo-voice)
+- [**Shrink**](https://www.curseforge.com/minecraft/mc-mods/shrink_)
+- [**FTB Library**](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
+- [**MaFgLib**](https://www.curseforge.com/minecraft/mc-mods/mafglib)
+
+### Changed
+
+- [**BetterF3**](https://www.curseforge.com/minecraft/mc-mods/betterf3) enabled **`rotation`** and **`chunk-relative coordinates`** display
+
 ### Removed
 
 #### Mods

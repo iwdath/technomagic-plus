@@ -49,7 +49,7 @@
 #### Configs for
 
 - [**Additional Placements**](https://www.curseforge.com/minecraft/mc-mods/additional-placements)
-- [**Better Compatibility Checker**](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
+- [**Better Compatibility Checker (BCC)**](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [**FindMe**](https://www.curseforge.com/minecraft/mc-mods/findme)
 - [**Load My F\*\*\*ing Tags (LMFT)**](https://www.curseforge.com/minecraft/mc-mods/lmft)
 - [**Plasmo Voice (PV)**](https://modrinth.com/plugin/plasmo-voice)

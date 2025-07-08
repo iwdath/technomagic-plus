@@ -36,7 +36,7 @@ If you're running your own server, you also need to install <kbd>**server-side**
 
 ## Tables of Components <kbd>**244 + 14**</kbd>
 
-This section presents all components included in this modpack: <kbd>**204 [mods](#mods-204)**</kbd>, <kbd>**40 [libs](#libs-40)**</kbd>, and <kbd>**14 [resource packs](#resource-packs-14)**</kbd>. The components are organized into three tables for better clarity and easier customization.
+This section presents all components included in this modpack: <kbd>**204 [mods][mods]**</kbd>, <kbd>**40 [libs][libs]**</kbd>, and <kbd>**14 [resource packs][resource-packs]**</kbd>. The components are organized into three tables for better clarity and easier customization.
 
 Each table provides the following information:
 
@@ -47,7 +47,15 @@ Each table provides the following information:
 
 This structure helps users tailor the modpack to their needs by clearly showing dependencies and letting them skip components they don’t need.
 
-### Mods <kbd>**204**</kbd>
+<!-- General links for installation, Forge and navigation -->
+[releases]: https://github.com/iwdath/technomagic-plus/releases
+[forge]: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html
+[components]: #tables-of-components-244--14
+[mods]: #mods-204
+[libs]: #libs-40
+[resource-packs]: #resource-packs-14
+
+<details><summary><h3>Mods <kbd>204</kbd></h3></summary>
 
 <!-- To properly display the tables, disable word wrap in your editor -->
 | **name**                                                                                   | **dependencies**                                                                                                                                                                                                    | **installation side** |
@@ -257,7 +265,11 @@ This structure helps users tailor the modpack to their needs by clearly showing 
 | [**YUNG's Bridges**][yungs-bridges]                                                        | <kbd>[**YUNG's API**][yungs-api]</kbd>                                                                                                                                                                              | `client and server`   |
 | [**YUNG's Extras**][yungs-extras]                                                          | <kbd>[**YUNG's API**][yungs-api]</kbd>                                                                                                                                                                              | `client and server`   |
 
-### Libs <kbd>**40**</kbd>
+<kbd>[**Back to Components**][components]</kbd> ⠀ <kbd>[**Back to Mods**][mods]</kbd>
+
+</details>
+
+<details><summary><h3>Libs <kbd>40</kbd></h3></summary>
 
 <!-- To properly display the tables, disable word wrap in your editor -->
 | **name**                                                            | **used by**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **installation side** |
@@ -303,7 +315,11 @@ This structure helps users tailor the modpack to their needs by clearly showing 
 | [**Valhelsia Core**][valhelsia-core]                                | <kbd>[**Forbidden and Arcanus**][forbidden-and-arcanus]</kbd>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | `client and server`   |
 | [**YUNG's API**][yungs-api]                                         | <kbd>[**Villages&Pillages**][villages-and-pillages]</kbd><br><kbd>[**YUNG's Better Desert Temples**][yungs-better-desert-temples]</kbd><br><kbd>[**YUNG's Better Dungeons**][yungs-better-dungeons]</kbd><br><kbd>[**YUNG's Better End Island**][yungs-better-end-island]</kbd><br><kbd>[**YUNG's Better Jungle Temples**][yungs-better-jungle-temples]</kbd><br><kbd>[**YUNG's Better Mineshafts**][yungs-better-mineshafts]</kbd><br><kbd>[**YUNG's Better Nether Fortresses**][yungs-better-nether-fortresses]</kbd><br><kbd>[**YUNG's Better Ocean Monuments**][yungs-better-ocean-monuments]</kbd><br><kbd>[**YUNG's Better Strongholds**][yungs-better-strongholds]</kbd><br><kbd>[**YUNG's Better Witch Huts**][yungs-better-witch-huts]</kbd><br><kbd>[**YUNG's Bridges**][yungs-bridges]</kbd> <kbd>[**YUNG's Extras**][yungs-extras]</kbd> | `client and server`   |
 
-### Resource Packs <kbd>**14**</kbd>
+<kbd>[**Back to Components**][components]</kbd> ⠀ <kbd>[**Back to Libs**][libs]</kbd>
+
+</details>
+
+<details><summary><h3>Resource Packs <kbd>14</kbd></h3></summary>
 
 <!-- To properly display the tables, disable word wrap in your editor -->
 | **name**                                                 | **dependencies**                                                                                         |
@@ -322,6 +338,10 @@ This structure helps users tailor the modpack to their needs by clearly showing 
 | [**Simple Grass Flowers**][simple-grass-flowers]         | <kbd>_none_</kbd>                                                                                        |
 | [**Simple Lower Grass Sides**][simple-lower-grass-sides] | <kbd>_none_</kbd>                                                                                        |
 | [**Spring Flowers**][spring-flowers]                     | <kbd>_none_</kbd>                                                                                        |
+
+<kbd>[**Back to Components**][components]</kbd> ⠀ <kbd>[**Back to Resource Packs**][resource-packs]</kbd>
+
+</details>
 
 <!-- Links to mods used in the modpack -->
 [a-good-place]: https://www.curseforge.com/minecraft/mc-mods/a-good-place
@@ -579,7 +599,3 @@ This structure helps users tailor the modpack to their needs by clearly showing 
 [simple-grass-flowers]: https://www.curseforge.com/minecraft/texture-packs/simple-grass-flowers
 [simple-lower-grass-sides]: https://www.curseforge.com/minecraft/texture-packs/simple-lower-grass-sides
 [spring-flowers]: https://www.curseforge.com/minecraft/texture-packs/spring-flowers
-
-<!-- General links for installation and Forge -->
-[releases]: https://github.com/iwdath/technomagic-plus/releases
-[forge]: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html

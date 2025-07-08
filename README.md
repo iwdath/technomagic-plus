@@ -5,7 +5,7 @@
 
 ## 📄 Description
 
-**`TechnoMagic+`** is a modpack that combines technology and magic in a way that feels natural and balanced. It adds depth to the game through machines, energy systems, magical research, and exploration, while keeping the familiar feel of **`Minecraft`** intact.
+**`TechnoMagic+`** is a modpack that combines technology and magic in a way that feels natural and balanced. It adds depth to the game through machines, energy systems, magical research, and exploration, while keeping the familiar feel of `Minecraft` intact.
 
 You can automate resource production, build technical infrastructure, or dive into magical progression — or do both at once. The mods are selected to complement each other, so you’re free to follow either path without the systems clashing or overwhelming you.
 
@@ -13,25 +13,25 @@ To make the experience smoother, the pack also includes small improvements: perf
 
 ## 💾 Installation
 
-This modpack is structured into separate <kbd>**client-side**</kbd> and <kbd>**server-side**</kbd> archives to simplify installation and prevent compatibility issues. Some mods are purely visual and should not be installed on a server, while others may cause errors. To avoid manual sorting, the necessary mods for both the client and server have been pre-sorted and can be downloaded from the [**releases**][releases].
+This modpack is structured into separate `client-side` and `server-side` archives to simplify installation and prevent compatibility issues. Some mods are purely visual and should not be installed on a server, while others may cause errors. To avoid manual sorting, the necessary mods for both the client and server have been pre-sorted and can be downloaded from the [**releases**][releases].
 
 ### 🖥️ Client Side
 
-If you're playing in single-player mode, you only need to install <kbd>**client-side**</kbd> mods:
+If you're playing in single-player mode, you only need to install `client-side` mods:
 
-1. Ensure the correct version of `Minecraft` <kbd>**Forge**</kbd> is installed. If not, download the [**installer**][forge], run it, and select the <kbd>**Install Client**</kbd> option.
-2. Download the <kbd>**client-side**</kbd> [**modpack**][releases] and extract it to your game directory:
+1. Ensure the correct version of `Minecraft` <kbd>**Forge**</kbd> is installed. If not, download the [**installer**][forge], run it, and select the `Install Client` option.
+2. Download the `client-side` [**modpack**][releases] and extract it to your game directory:
    - **`Windows:`** <kbd>**%appdata%\\.minecraft\\**</kbd>
    - **`macOS:`** <kbd>**~/Library/Application Support/minecraft/**</kbd>
    - **`Linux:`** <kbd>**~/.minecraft/**</kbd>
-3. Open the `Minecraft` launcher, select the <kbd>**Forge**</kbd> profile, and click <kbd>**Play**</kbd>.
+3. Open the `Minecraft` launcher, select the <kbd>**Forge**</kbd> profile, and click `Play`.
 
 ### 🖧 Server Side
 
-If you're running your own server, you also need to install <kbd>**server-side**</kbd> mods:
+If you're running your own server, you also need to install `server-side` mods:
 
-1. Ensure the correct version of `Minecraft` <kbd>**Forge**</kbd> is installed on your server. If not, download the [**installer**][forge], run it, and select the <kbd>**Install Server**</kbd> option.
-2. Download the <kbd>**server-side**</kbd> [**modpack**][releases] and extract it to the server's root directory, where <kbd>**server.jar**</kbd> and other core files are located.
+1. Ensure the correct version of `Minecraft` <kbd>**Forge**</kbd> is installed on your server. If not, download the [**installer**][forge], run it, and select the `Install Server` option.
+2. Download the `server-side` [**modpack**][releases] and extract it to the server's root directory, where `server.jar` and other core files are located.
 3. Start the server and make sure it runs without errors and all mods load correctly.
 
 ## 📊 Tables of Components <kbd>**244 + 14**</kbd>
@@ -43,7 +43,7 @@ Each table provides the following information:
 - **`name:`** The name of the <kbd>**mod**</kbd>, <kbd>**lib**</kbd>, or <kbd>**resource pack**</kbd>.
 - **`dependencies:`** Other components required for proper functionality (if applicable).
 - **`used by:`** If it's a <kbd>**lib**</kbd>, this column lists the <kbd>**mods**</kbd> that depend on it.
-- **`installation side:`** Indicates if the component is for <kbd>**client-side**</kbd>, <kbd>**server-side**</kbd>, or both.
+- **`installation side:`** Indicates if the component is for `client-side`, `server-side`, or both.
 
 This structure helps users tailor the modpack to their needs by clearly showing dependencies and letting them skip components they don’t need.
 

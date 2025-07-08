@@ -3,7 +3,7 @@
 > [!WARNING]
 > Some mods are incompatible with <kbd>**OptiFine**</kbd>. Therefore, this modpack uses <kbd>**Embeddium**</kbd> and <kbd>**Oculus**</kbd> instead. To ensure proper functionality, launch Minecraft with <kbd>**Forge**</kbd> version <kbd>**1.19.2**</kbd> without <kbd>**OptiFine**</kbd>.
 
-## 📝 Description
+## 📄 Description
 
 **`TechnoMagic+`** is a modpack that combines technology and magic in a way that feels natural and balanced. It adds depth to the game through machines, energy systems, magical research, and exploration, while keeping the familiar feel of **`Minecraft`** intact.
 

@@ -1,4 +1,21 @@
-# TechnoMagic+ Modpack for Minecraft Forge 1.19.2
+<h1 align="center"><a href="#"><img src="assets/logo.svg" alt="Modpack Logo" width="25px"></a> TechnoMagic+</h1>
+
+<h2>📘 About</h2>
+
+<a href="#"><img align="right" width="438px" src="assets/preview.png" alt="Modpack Preview"></a>
+
+<br>
+
+- 🎮 **`Minecraft Version:`** <kbd>**1.19.2**</kbd>
+- 🧩 **`Mod Loader:`** <kbd>**Forge**</kbd>
+- 🧱 **`Mods Count:`** <kbd>**244**</kbd>
+- 🎯 **`Focus:`** <kbd>**Tech**</kbd> <kbd>**Magic**</kbd> <kbd>**Exploration**</kbd> <kbd>**Vanilla+**</kbd>
+- 🔧 **`Key Mods:`** <kbd>[**IC2 Classic**][ic2-classic]</kbd> <kbd>[**Iron's Spellbooks**][irons-spellbooks]</kbd>
+- 🚀 **`Optimization:`** <kbd>[**Embeddium**][embeddium]</kbd> <kbd>[**Oculus**][oculus]</kbd>
+- ☁️ **`Multiplayer:`** <kbd>**Supported**</kbd>
+- 💾 **`Installation:`** <kbd>[**CurseForge**][curseforge]</kbd> <kbd>[**Modrinth**][modrinth]</kbd> <kbd>[**Manual**][releases]</kbd>
+
+<br>
 
 > [!WARNING]
 > Some mods are incompatible with <kbd>**OptiFine**</kbd>. Therefore, this modpack uses <kbd>**Embeddium**</kbd> and <kbd>**Oculus**</kbd> instead. To ensure proper functionality, launch Minecraft with <kbd>**Forge**</kbd> version <kbd>**1.19.2**</kbd> without <kbd>**OptiFine**</kbd>.
@@ -48,6 +65,8 @@ Each table provides the following information:
 This structure helps users tailor the modpack to their needs by clearly showing dependencies and letting them skip components they don’t need.
 
 <!-- General links for installation, Forge and navigation -->
+[curseforge]: https://www.curseforge.com/minecraft/modpacks/technomagic-plus
+[modrinth]: https://modrinth.com/project/technomagic-plus
 [releases]: https://github.com/iwdath/technomagic-plus/releases
 [forge]: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html
 [components]: #-tables-of-components-244--14

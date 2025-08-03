@@ -1,5 +1,24 @@
 <h1 align="center"><a href="#"><img src="assets/logo.svg" alt="Modpack Logo" width="25px"></a> TechnoMagic+</h1>
 
+<p align="center">
+  <a href="https://www.curseforge.com/minecraft/modpacks/technomagic-plus">
+    <img src="https://img.shields.io/curseforge/dt/1301508?style=for-the-badge&logo=curseforge&labelColor=000&color=fff" alt="CurseForge Downloads">
+  </a>
+  <a href="https://modrinth.com/project/technomagic-plus">
+    <img src="https://img.shields.io/modrinth/dt/mcFY0K8W?style=for-the-badge&logo=modrinth&labelColor=000&color=fff" alt="Modrinth Downloads">
+  </a>
+  <a href="https://github.com/iwdath/technomagic-plus/releases">
+    <img src="https://img.shields.io/github/downloads/iwdath/technomagic-plus/total?style=for-the-badge&logo=github&labelColor=000&color=fff" alt="GitHub Downloads (all assets, all releases)">
+  </a>
+</p>
+
+<p align="center">
+  <strong>🌐 Language:</strong>
+  <a href="#"><kbd><img src="assets/US.svg" alt="US" width="16px"></kbd></a>
+  <a href="#"><code><img src="assets/RU.svg" alt="RU" width="16px"></code></a>
+  <a href="#"><code><img src="assets/UA.svg" alt="UA" width="16px"></code></a>
+</p>
+
 <h2>📘 About</h2>
 
 <a href="#"><img align="right" width="438px" src="assets/preview.png" alt="Modpack Preview"></a>

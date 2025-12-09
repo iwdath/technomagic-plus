@@ -1,12 +1,13 @@
 <h1 align="center"><a href="#"><img src="assets/logo.svg" alt="Modpack Logo" width="25px"></a> TechnoMagic+</h1>
 
 <p align="center">
+<!-- postponed until the next life
   <a href="https://www.curseforge.com/minecraft/modpacks/technomagic-plus">
     <img src="https://img.shields.io/curseforge/dt/1301508?style=for-the-badge&logo=curseforge&labelColor=000&color=fff" alt="CurseForge Downloads">
   </a>
   <a href="https://modrinth.com/project/technomagic-plus">
     <img src="https://img.shields.io/modrinth/dt/mcFY0K8W?style=for-the-badge&logo=modrinth&labelColor=000&color=fff" alt="Modrinth Downloads">
-  </a>
+  </a> -->
   <a href="https://github.com/iwdath/technomagic-plus/releases">
     <img src="https://img.shields.io/github/downloads/iwdath/technomagic-plus/total?style=for-the-badge&logo=github&labelColor=000&color=fff" alt="GitHub Downloads (all assets, all releases)">
   </a>
@@ -33,7 +34,7 @@
 - 🔧 **`Key Mods:`** <kbd>[**IC2 Classic**][ic2-classic]</kbd> <kbd>[**Iron's Spellbooks**][irons-spellbooks]</kbd>
 - 🚀 **`Optimization:`** <kbd>[**Embeddium**][embeddium]</kbd> <kbd>[**Oculus**][oculus]</kbd>
 - ☁️ **`Multiplayer:`** <kbd>**Supported**</kbd>
-- 💾 **`Installation:`** <kbd>[**CurseForge**][curseforge]</kbd> <kbd>[**Modrinth**][modrinth]</kbd> <kbd>[**Manual**][releases]</kbd>
+- 💾 **`Installation:`**<!-- postponed until the next life <kbd>[**CurseForge**][curseforge]</kbd> <kbd>[**Modrinth**][modrinth]</kbd> --> <kbd>[**Manual**][releases]</kbd>
 
 <br>
 
@@ -52,11 +53,12 @@ To make the experience smoother, the pack also includes small improvements: perf
 
 This modpack is structured into separate `client-side` and `server-side` archives to simplify installation and prevent compatibility issues. Some mods are purely visual and should not be installed on a server, while others may cause errors. To avoid manual sorting, the necessary mods for both the client and server have been pre-sorted, and you can install **`TechnoMagic+`** using one of the following methods:
 
+<!-- postponed until the next life
 1. ⚡ **`Automatic installation`** — via [**CurseForge**][curseforge] or [**Modrinth**][modrinth]
 
-   If you're using the `CurseForge` or `Modrinth` launcher, you can install the modpack in one click from its project page. This is the fastest and most convenient method.
+   If you're using the `CurseForge` or `Modrinth` launcher, you can install the modpack in one click from its project page. This is the fastest and most convenient method. -->
 
-2. 🛠️ **`Manual installation`** — via [**GitHub**][releases]
+1. 🛠️ **`Manual installation`** — via [**GitHub**][releases]
 
    If you're using a different launcher or prefer full control over the installation process, you can install the modpack manually by following the instructions below.
 
